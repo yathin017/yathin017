@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yathin017&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75620849/131304878-9c7f3d49-e1eb-4a64-a09f-415016784dd4.gif">
 
+<br>
+
 - 👨‍💻 I'm a CSE Sophomore
 
 - 🏫 Studying at **IIIT Naya Raipur**
@@ -19,19 +21,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yathin017&show_icons=true&locale=en&layout=compact" alt="yathin017" /></p>
-<hr>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yathin017&show_icons=true&locale=en" alt="yathin017" /></p>
-<!--
-**yathin017/yathin017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
