@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/yathin-prakash-kethepalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yathin Prakash Kethepalli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yathin-prakash-kethepalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yathin Prakash Kethepalli" height="30" width="40" /></a>
 <a href="https://instagram.com/yathin_017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yathin_017" height="30" width="40" /></a>
 </p>
 
