@@ -1,6 +1,6 @@
 ![Never let people tell sky is the limit, when there are foot prints on the moon](https://user-images.githubusercontent.com/75620849/131303061-e1e42bbb-f7dc-418b-a665-162f0ea379b0.png)
 
-<h1 align="center">Hey 👋, I'm Yathin</h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/75620849/131698642-6af0b3f9-ed01-4fa9-b9a5-fbeb4b18aa58.gif" width="30px">, I'm Yathin!</h1>
 <h3 align="center">Still trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yathin017&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
