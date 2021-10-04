@@ -20,5 +20,5 @@
 <a href="https://twitter.com/yathin_017" target="blank"><img align="center" src="https://github.com/yathin017/yathin017/blob/main/images/twitter.svg" alt="yathin_017" height="30" width="40" /></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathin017&layout=compact&theme=dark" alt="yathin017" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yathin017&show_icons=true&theme=dark" alt="yathin017" /></p>
+<br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yathin017&show_icons=true&theme=dark" alt="yathin017" /></p>
