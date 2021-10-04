@@ -4,8 +4,7 @@
 <h3 align="center">Still trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yathin017&label=Profile%20views&color=129e00&style=plastic" alt="yathin017" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75620849/131304878-9c7f3d49-e1eb-4a64-a09f-415016784dd4.gif" style="border-radius:30%;">
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75620849/135789519-dd611b0f-9aeb-4671-99f5-fd37ce37b196.gif" style="border-radius:30%;">
 <br>
 
 - 👨‍💻 I'm a CSE Sophomore
