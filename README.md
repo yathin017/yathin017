@@ -1,21 +1,13 @@
 ## <p align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></p>
 
-<a href="https://github.com/yathin017?tab=repositories">
-<img src="./assets/Github-Banner.png" />
-</a>
-
 > ## I'm Yathin Prakash Kethepalli 
-> Sophomore CS Undergrad, **Developer** and an avid learner.
+> Junior CS Undergrad, **Developer**, **Researcher** and an avid learner.
 
- - 👋 I am Currently learning Blockchain development
- - 🌐 I am Exploring Open source projects while building on Web-Development
+ - 👋 I am Currently working as a Research Intern at University College London
+ - 🌐 I am Exploring Open source projects while researching
  - 💭 I am always up for hackathons, Lets git it done !
  - ⚡ Fun fact : I love networking and meeting new people !
 
- 
-<div>
-<img src="https://activity-graph.herokuapp.com/graph?username=yathin017&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401">
-</div>
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=yathin017&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Yathin's+Github+Stats" alt="Yathin's Github stats" />
 <img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=yathin017&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
@@ -38,6 +30,6 @@
 [<img height=40 width=40 align="centre" alt="Mail me" src="./assets/mail.ico">](yathin20100@iiitnr.edu.in)&nbsp;&nbsp;&nbsp;
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="./assets/linkedin.svg">](https://www.linkedin.com/in/yathin017/)&nbsp;&nbsp;&nbsp; 
 [<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="./assets/twitter.svg">](https://twitter.com/yathin017)&nbsp;&nbsp;&nbsp; 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="./assets/instagram.svg">](https://www.instagram.com/yathin017/)
+[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="./assets/instagram.svg">](https://www.instagram.com/yathin_017/)
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
