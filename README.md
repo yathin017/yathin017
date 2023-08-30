@@ -3,10 +3,10 @@
 > ## I'm Yathin Prakash Kethepalli 
 > Junior CS Undergrad, **Developer**, **Researcher** and an avid learner.
 
- - 👋 I am Currently working as a Research Intern at University College London
+ - 👋 I am Currently looking for research projects to work on
  - 🌐 I am Exploring Open source projects while researching
- - 💭 I am always up for hackathons, Lets git it done !
- - ⚡ Fun fact : I love networking and meeting new people !
+ - 💭 I am always up for hackathons, Lets git it done!
+ - ⚡ Fun fact : I love networking and meeting new people!
 
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=yathin017&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Yathin's+Github+Stats" alt="Yathin's Github stats" />
