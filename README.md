@@ -1,7 +1,7 @@
 ## <p align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></p>
 
 > ## I'm Yathin Prakash Kethepalli 
-> Junior CS Undergrad, **Developer**, **Researcher** and an avid learner.
+> Senior CS Undergrad, **Developer**, **Researcher** and an avid learner.
 
  - 👋 I am Currently looking for research projects to work on
  - 🌐 I am Exploring Open source projects while researching
