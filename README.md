@@ -30,6 +30,6 @@
 [<img height=40 width=40 align="centre" alt="Mail me" src="./assets/mail.ico">](yathin20100@iiitnr.edu.in)&nbsp;&nbsp;&nbsp;
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="./assets/linkedin.svg">](https://www.linkedin.com/in/yathin017/)&nbsp;&nbsp;&nbsp; 
 [<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="./assets/twitter.svg">](https://twitter.com/yathin017)&nbsp;&nbsp;&nbsp; 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="./assets/instagram.svg">](https://www.instagram.com/yathin_017/)
+[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="./assets/instagram.svg">](https://www.instagram.com/yathin017/)
 <br>
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
